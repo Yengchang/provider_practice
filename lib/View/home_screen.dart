@@ -21,6 +21,7 @@ class HomeScreen extends StatelessWidget {
           ),
         ],
       ),
+      //this is button to Add new transaction
       floatingActionButton: FloatingActionButton(
         onPressed: () {
           showModalBottomSheet(
